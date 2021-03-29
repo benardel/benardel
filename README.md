@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benardel
+- 👋 Hi, I’m Benard Sulejmani from Albania.
 - 👀 I’m interested in JS-Vue.js-PHP-Laravel.
 - 🌱 I’m currently learning everything I need.
 - 💞️ I’m looking to collaborate on new ideas.
